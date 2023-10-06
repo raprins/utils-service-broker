@@ -1,0 +1,27 @@
+{
+    "method": "GET",
+    "url": "/v2/catalog",
+    "status": 200,
+    "headers": {
+        "host": "raprincis-utilities.cfapps.us10-001.hana.ondemand.com",
+        "user-agent": "HTTPClient/1.0 (2.8.3, ruby 3.2.2 (2023-03-30))",
+        "accept": "application/json",
+        "authorization": "Basic cmFwcmluY2lzOnJhcHJpbmNpcw==",
+        "b3": "0535f95e34b24fb6680b2b182eb2d700-680b2b182eb2d700",
+        "date": "Fri, 06 Oct 2023 14:26:23 GMT",
+        "x-api-info-location": "api.cf.us10-001.hana.ondemand.com/v2/info",
+        "x-b3-spanid": "680b2b182eb2d700",
+        "x-b3-traceid": "0535f95e34b24fb6680b2b182eb2d700",
+        "x-broker-api-originating-identity": "cloudfoundry eyJ1c2VyX2lkIjoiMGNhZjM5MzMtNmFhZC00N2Y4LTlkN2YtYTcwMGNjMTIyNGY3In0=",
+        "x-broker-api-request-identity": "efc9b2bc-84c4-4ada-8ba4-b63d88180c55",
+        "x-broker-api-version": "2.15",
+        "x-cf-applicationid": "3240e7b7-56d6-4ae3-88f0-96fe0fb02c49",
+        "x-cf-instanceid": "8a87812d-d730-408d-6ba6-1577",
+        "x-cf-instanceindex": "0",
+        "x-forwarded-for": "18.213.153.162, 10.0.200.0",
+        "x-forwarded-proto": "https",
+        "x-request-start": "1696602383035",
+        "x-scp-request-id": "c3fa3714-92d0-40d3-a666-921705a354fb-6520190F-7EC33",
+        "x-vcap-request-id": "0535f95e-34b2-4fb6-680b-2b182eb2d700"
+    }
+}

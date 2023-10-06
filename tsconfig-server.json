@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "ES2022", /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "outDir": "dist", /* Specify what module code is generated. */
+        "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "noEmit": false,
+        "strict": true
+    },
+    "include": [
+        "server"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

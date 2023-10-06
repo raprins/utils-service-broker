@@ -1,0 +1,13 @@
+node_modules
+
+/.cache
+.env
+/server
+/types
+.eslintrc
+.gitignore
+nodemon.json
+README.md
+tsconfig-server.json
+tsconfig.json
+manifest.yml

@@ -1,0 +1,9 @@
+---
+applications:
+  - name: utilities
+    routes:
+      - route: raprincis-utilities.cfapps.us10-001.hana.ondemand.com
+    buildpacks:
+      - nodejs_buildpack
+    health-check-type: http
+    health-check-http-endpoint: /health

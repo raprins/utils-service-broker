@@ -1,0 +1,25 @@
+{
+    "name": "date-utilities",
+    "id": "fbb89e27-8b39-4aa4-b00a-415326185ea9",
+    "description": "This service is used to interact with Dates",
+    "tags": ["date", "utils"],
+    "bindable": true,
+    "instances_retrievable": true,
+    "metadata": {
+      "displayName": "Date utilities",
+      "longDescription": "This service is used to interact with Dates",
+      "providerDisplayName": "Cloud foundry Date Utils",
+      "documentationUrl": "",
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACuElEQVRoge2ZzUsVURjGXyOpXLSxFmUgbir8C/pcuLCdgWndIFokuOpjUf9CYGD0R7gRwbUghCCmthOJKN1FErUoS0n6kOp9PDM197lnPq73jGcuzQMPyJz3zvmdO+/7njNXkVL/j1rUPeoR9Zx6Tb2t3lJ/UM+oR9VnfQHGaZ96WP1a/TujV9RnfMCyutXPJTt41MseeKt0Sf1ZdgcfPgVvAvwPC9Q39Zh6UN2pblXfVP+iuJ/q/j2nDoS0+SK18BPq4xRbEQPL8JW9gmWhYDnn0WnuWGILBw8NS+037wIe6bQqprBza7Po89wqJyxx9cJz/Eowl3P1EBQKlnP+vDQGHzqXPWKEJhmzxLyQxuHhRy7BQz2jSQZp/Ki4gYefOmbf0RpN0knjRyTbAmzwvE+8c49fO2mrJSYtheIK/BZd28xjAVs0yQFLzIUYwEoCPK4fpOvf81jAe5qEUyhUHGhSd+qisTd5LGCGJhlIiE0rUltqRcdnHbPvaJQmGU+Jj1uErbjHKeahM+qIHtAkX9X7Uz6DmliOfGZJfY5iTojJ+ei9LzqjDmT7Nj+KOdxlUXtgmybpvi/F8VEiriivOLj3PalNsSEH9/2rPI/EgN+mey9I9qeaqnrhMXFaTUDIeU4beF19ujHkf6oXHumEmsBmh45yTUxvbxOz4eHv68EYFyyM19NeX/BpPT/N680MPy8e06YReLRKdBtvBRsXf1/MywjO8zg7bYjJ77dijgfYYbFJOe3zVy0waG83HMXnqhI+IT5XXbbA7CbnvfxI1SGmuJoSHnpSB0zh4KFVArodE1dIeIjPIocsMYWFhz5JNdhJGi80PDQt1XCL6lNinsRdKTg8hKNu1jNL4eAhnEOmpEnhQx2W5EXgX0h93ugyCk8C6YSawNsUfu9/pX6sPuaRq1SpUhH9AUYHMJ++YpKmAAAAAElFTkSuQmCC"
+    },
+    "plans": [{
+      "name": "free-plan",
+      "id": "d226e953-dcd6-4bf8-aa63-12ba196b7fb1",
+      "description": "Free plan of this Service",
+      "free": true,
+      "maintenance_info": {
+        "version": "0.0.1",
+        "description": "OS image update.\nExpect downtime."
+      }
+    }]
+  }

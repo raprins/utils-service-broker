@@ -1,0 +1,3 @@
+cf csb broker-date-utils raprincis raprincis https://raprincis-utilities.cfapps.us10-001.hana.ondemand.com/broker --space-scoped
+cf update-service-broker broker-date-utils raprincis raprincis https://raprincis-utilities.cfapps.us10-001.hana.ondemand.com/broker
+cf delete-service-broker broker-date-utils
